@@ -28,3 +28,7 @@ BSc Computer Science
 Newcastle University
 2026–2029
 
+## Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zahra-akhezeroun-ba4b033a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:c6015630@newcastle.ac.uk) 
+
